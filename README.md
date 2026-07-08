@@ -6,7 +6,7 @@ Data-Driven-Decarbonization is a machine learning project that analyzes national
 
 ---
 
-## Overview
+## Overview 
 
 Achieving global sustainability requires understanding how countries differ in their energy consumption, economic development, and carbon emissions. This project applies unsupervised machine learning techniques to discover meaningful patterns in national emission profiles and economic indicators.
 
